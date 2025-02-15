@@ -1,16 +1,35 @@
-## Hi there 👋
+# Welcome to My Wonderland! 👩‍💻📖☕
 
-<!--
-**CassandraLubbe/CassandraLubbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“I can't go back to yesterday because I was a different person then.”* – Lewis Carroll
 
-Here are some ideas to get you started:
+Hello there! I'm **Cassandra Lubbe**, a creative writer (BA graduate) turned software engineer, currently completing my **BSc in Computing (Expected end 2025)**. I thrive at the crossroads of **storytelling and technology**, crafting both **engaging narratives** and **efficient code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🔹 **Languages & Tools:** Python | C++ | Qt | Oracle SQL  
+🔹 **Passionate About:** Software engineering, data analysis, UI/UX design, and writing interactive stories  
+🔹 **Currently Learning:** Machine Learning basics, AI & NPL, Swift  
+🔹 **Future learning:** Flutter, Java, C#  
+🔹 **Fun Fact:** I enjoy building immersive worlds both in fiction and in code!  
+
+## 🛠️ Things I Can Do
+🎩 **Write & Code** – Because words and syntax are equally magical!  
+📊 **Analyze Data** – Spotting patterns like the Cheshire Cat sees in the dark!  
+🔍 **Debug & Fix** – Chasing bugs like Alice chasing the White Rabbit!  
+🖥️ **Design UIs** – Creating user-friendly interfaces with PyQt & Qt Designer!  
+📂 **Manage Projects** – Keeping everything organized, just like the Mad Hatter’s tea parties!  
+📜 **Write Docs** – Because great projects deserve great documentation!  
+
+## 📂 Goal Projects
+🐰 AI creative writing assistant with character chatbot capabilities  
+🐰 Logistical/transportation app aimed at small businesses  
+🐰 Pocket ERP-style app for one-man businesses  
+
+## 📫 Contact Me
+If you'd like to collaborate or chat about programming, writing, or anything in between, reach out:
+
+📧 **cassylubbe@gmail.com**  
+🌍 **[LinkedIn](https://www.linkedin.com/in/cassandra-lubbe-8b9765139/)** | **[Portfolio Website](https://cassandralubbe.github.io)** 
+
+> *“Imagination is the only weapon in the war against reality.”* – Cheshire Cat
+
+Let's build something **wonderfully mad** together! 🎩🐰✨
