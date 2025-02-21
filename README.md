@@ -7,8 +7,8 @@ Hello there! I'm **Cassandra Lubbe**, a creative writer (BA graduate) turned sof
 ## 🚀 About Me
 🔹 **Languages & Tools:** Python | C++ | Qt | Oracle SQL  
 🔹 **Passionate About:** Software engineering, data analysis, UI/UX design, and writing interactive stories  
-🔹 **Currently Learning:** Machine Learning basics, JavaScript, HTML, CSS, & Three.js
-🔹 **Future learning:** Flutter, Java, AI & NPL, Swift
+🔹 **Currently Learning:** Machine Learning basics, JavaScript, HTML, CSS, & Three.js  
+🔹 **Future learning:** Flutter, Java, AI & NPL, Swift  
 🔹 **Fun Fact:** I enjoy building impossible worlds in fictions & learning how to translate that into code. 
 
 ## 🛠️ Things I Can Do (Future Graduate loading...)
