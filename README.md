@@ -2,7 +2,7 @@
 
 > *“I can't go back to yesterday because I was a different person then.”* – Lewis Carroll
 
-Hello there! I'm **Cassandra Lubbe**, a creative writer (BA graduate) turned software engineer, currently completing my **BSc in Computing (Expected end 2025)**. I thrive at the crossroads of **storytelling and technology**, crafting both **engaging narratives** and **efficient code**.
+Hello there! I'm **Cassandra Lubbe**, a creative writer (BA graduate) turned software engineer, currently completing my **BSc in Computing (Expected: end 2025)**. I thrive at the crossroads of **storytelling and technology**, crafting both **engaging narratives** and **efficient code**.
 
 ## 🚀 About Me  
 🔹 **Languages & Tools:** Python | C++ | Qt | Oracle SQL | MySQL   
